@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itzykp
+- 👋 Hi, I’m @itzykp-git
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning DS & ML
 - 💞️ I’m looking to collaborate on DS, ML, Web Development
